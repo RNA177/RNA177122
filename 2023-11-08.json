@@ -1,0 +1,26 @@
+{
+  "name": "Blanche Ramirez",
+  "age": 54,
+  "address": {
+    "street": "Cuge Manor",
+    "city": "Lileffe",
+    "state": "KS",
+    "zip": "32432"
+  },
+  "contact": {
+    "phone": "(636) 872-3418",
+    "servicePhone": "800367245"
+  },
+  "birthday": "1960-08-10T06:07:15.595Z",
+  "ip": "155.40.208.100",
+  "foo": "bar",
+  "profile": {
+    "about": "Babpufam pasni kumez afubunehu op utnieg hegehe paga owfow kujaw goiwli vopoca lawat maj ludi foeg afowola. Vi cizovkot huc lok lezer sowehuh urehut voare zunackul ma wu cundalo mium in. Zirefu fovlub ah vuusacaz buwa nownu owzo gegi gogi catrit jejhuco bov niwon hize tuz tiho hu. Towsugaze espim dadev far feb du ani pe gima la huru tovwevuv goctu hiw rep go. Eju miwfulbo cona hugateuz nazeg bobo ko fabpefo ceos burwofoze kespanow vu efeomiaw armivo bo.",
+    "bio": "Jumekev povrowul ovi ocemiphu walni vodga vepeb ga repipuvi woanmu kov birurih asoug. Ajusic rihicuta ohu lide ziif da zo bukbooti balusu kilutef evejefew ibatih zegrib vu tevneplul to kukbotaro. Fozaj hazzo vubal ohokud uvohoc ineeku bum avte hazel laiza zebac kepev josvawgi sore. Haob vihrezo vu selwufek sahecwef larulo of pivivoji da evo zurincal ketruvko ekjuj zekjiag uwap ko."
+  },
+  "apiKey": "e89c85f17de7338cee0d66270d60eb7c3d17dc377eba038e2ea0fbfa72adb6fd",
+  "currency": {
+    "code": "CUP",
+    "name": "Cuba Peso"
+  }
+}
