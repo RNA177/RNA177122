@@ -1,0 +1,26 @@
+{
+  "name": "Lillian Rios",
+  "age": 22,
+  "address": {
+    "street": "Maazo Center",
+    "city": "Dursapu",
+    "state": "MI",
+    "zip": "10331"
+  },
+  "contact": {
+    "phone": "(761) 499-2647",
+    "servicePhone": "800856274"
+  },
+  "birthday": "1985-11-06T21:29:08.128Z",
+  "ip": "35.10.76.36",
+  "foo": "bar",
+  "profile": {
+    "about": "Zez lutov co iwseawi hoezsu kofozsep vifobhe pim jiz cukis zaw kukbodolu ti. Taozo dikik ojtuk nukesin idpe viem fikzumif up sihsokwi ubseha powvoz mutumiru onhonow fut juvofvok ca sudikoav. Isbol linzuzru suv he mo ucuotogeh lugirom utno mimidiaw pit ra ucore jope seihuma eckevos. Ovbelfub coonza ori tokan merkevtap fini tofruz cet bebo ku zoz jope siodkef muag or. Wod dugooda aghez rivitis lir mafti jecje vic iwakaah ikla deirrel dewlom namarac gevaha.",
+    "bio": "Emtu gahfeb hevtaw gogjajuz meh mazlidoge rig tijkad kugkeh vedov zik ho vuwif avu ned fuuleeh. Wigbu ive zipomun puhakew naf usodapem ruhag kigez hifmiz suna ijale le ihi ob. Wa nenil cipepcev tenuca cewuti poj benu feh ikni olipa umca nab nulba. Kibseeka vipu ocuhudop eznimre okru bahju jazine hu rovcatne na mopfaj lez guvi kurwom zofati ce fon."
+  },
+  "apiKey": "1c12a55d4f2ce83746c276cb1d589328b0555a85050c19a5490fe529c5fd4d91",
+  "currency": {
+    "code": "BHD",
+    "name": "Bahrain Dinar"
+  }
+}
