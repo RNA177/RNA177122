@@ -1,0 +1,26 @@
+{
+  "name": "Phillip Nunez",
+  "age": 27,
+  "address": {
+    "street": "Kigos Heights",
+    "city": "Mesmosbag",
+    "state": "IL",
+    "zip": "64295"
+  },
+  "contact": {
+    "phone": "(225) 825-6293",
+    "servicePhone": "800489221"
+  },
+  "birthday": "1997-10-07T22:28:58.295Z",
+  "ip": "9.93.176.121",
+  "foo": "bar",
+  "profile": {
+    "about": "Tana toesi mu oseruma peh avideduv basen pubibku woc bovi bifladjaw puvsu ragseg metehbiv. Jerucuc vaduc apfunwun nezhimez buppaoti zig otate jordawmi ludjeda suz so ugu ka uj vucani ilajim fupe. Ca bokselo ibzu obreki tocus bomcirid povupuj ve redwaigu fef iwietioc hepemne cor vo.",
+    "bio": "Rarazic az tav ohipuz wek wura sa jo wih gu ha beguperu odzit ziwbetuh. Rodu up hekhov gigdu miku foluhi ziawvev for kebsuh ze mihujuwu tawgotnif zemnuoni eciumucu mem ohge siendid mez. Ri amwicu oh so tabe idigu hoeweku ewamce ranef ip ip ta odomedba une zekiw wumizwi dauc. To odoti odnib hukici egow guc oretidfet nive fosle cewihib gofemo jub."
+  },
+  "apiKey": "52db5549db6f283520cb133f3c78e9b6f367e8936dba734186223e4e7fe9dd3e",
+  "currency": {
+    "code": "MWK",
+    "name": "Malawi Kwacha"
+  }
+}
