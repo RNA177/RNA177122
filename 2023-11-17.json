@@ -1,0 +1,26 @@
+{
+  "name": "Lydia Figueroa",
+  "age": 62,
+  "address": {
+    "street": "Zufe Avenue",
+    "city": "Jafzazhor",
+    "state": "CO",
+    "zip": "97975"
+  },
+  "contact": {
+    "phone": "(551) 579-7306",
+    "servicePhone": "800479912"
+  },
+  "birthday": "1993-06-21T10:55:36.548Z",
+  "ip": "39.107.128.79",
+  "foo": "bar",
+  "profile": {
+    "about": "Ek fokbasaf nov ke kalewif wiak juz vuev detehja menherjaj vodifiwu to. Zedvoh golofu pawebod ufac zotcosfin kigdat keow jelbud don metjuhuv adad izi foukih ikfeh vihditu addirbi. Javuv sarro gelni pal don jijosesos vejic boavi tijomilus rajfiv kapudi ohacupo ibo zofler juz mep loiwa.",
+    "bio": "Ha kuwo likkenwi polupop fof vuj sazbaow dawuh ujtam fut mapew boigha nokfetvuh kubuz. Ne catim po kevumed lodve halhed caawise rettesim vu meza ode lo buc. Kuv vuhfej folmukolu keoma zo vegokfar ha ubiuso jepsof fave ujhev ducni badikat hafego ubawiw hu ca vugtawpa. Pebzutga pidofuifu moda be vohrec keuz idna fobuj bahad nasiret zas apadisrur agvapil eweete lasfas hukjiru. Dof fejijwa forihra damkomap elo zuzowoc fedraat ciawofo meceh vowpa muarooci numaj arafaco. Aba ad piuro zuda buctedha resoge edwunos du hilaf penu oh hauvogas usafu aje ci."
+  },
+  "apiKey": "b9d791d87c9bccf68b69ed9a0f80ba1301804818905bc2e82a5689e29bcd1ff9",
+  "currency": {
+    "code": "GHS",
+    "name": "Ghana Cedi"
+  }
+}
