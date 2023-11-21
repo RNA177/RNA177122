@@ -1,0 +1,26 @@
+{
+  "name": "Janie Singleton",
+  "age": 32,
+  "address": {
+    "street": "Zutu Lane",
+    "city": "Newileha",
+    "state": "IN",
+    "zip": "81640"
+  },
+  "contact": {
+    "phone": "(928) 875-6448",
+    "servicePhone": "800883289"
+  },
+  "birthday": "1988-11-03T15:35:54.734Z",
+  "ip": "156.3.17.197",
+  "foo": "bar",
+  "profile": {
+    "about": "Gedkuhpu avoomfu ce ileleroz savmu mionu dav lirocsi ovi anujo for si et. Kegetri gobnaki pi cad ibvu ariosoca ib medsuli karo nagke aza tokced bu ruziz pid ser tu. Egiata eripo awuapgu diwviuve caktasze gar jazacu jogo imbimij urferric nop obmoc. Eme nok cereol uvogij po hu cegkama ge teju boju re lop wozuhoh kigofzuj. Gahi tecegum ofamiji dogiruc rimrensos zijcim citihe ivabohi jekruzut jugaban de vidi vucaba.",
+    "bio": "Ujigosma buvob josiv pez bomwav zubmab emoseaw hendubinu bofbeac noako dupfuwihu loloho dafoc bihher tactoegi. Zirga aradu ucke ja rifimuk wohi lima sactidit sunjidcu he pijup jun fe juvifo. Mopzegco dej faw wir ufcan cuveno idanuma okewuro dozve wesav faconbu mawi afisamva hi. Veuregi zaki udpe guhhop li ta kiviuf ro rerawi of fokjauli zaw vevfop to cetdipsiv ef pubafmik. Lem dufful nor surtu ewdeczi toretri femu nigcimik kosno anhuk his rotuluwe zelro luciic ajacidna calni eno. Fiw jabetmi gihci pu lodirvuz ba ocra lo ka wotuva picize mubre pefolut muid vib."
+  },
+  "apiKey": "96b87c2998eb8f426f61f21e69fcdc202dfb9b3c3daaa73d0cd858913dbe18e8",
+  "currency": {
+    "code": "GEL",
+    "name": "Georgia Lari"
+  }
+}
