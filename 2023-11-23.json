@@ -1,0 +1,26 @@
+{
+  "name": "Katherine Hall",
+  "age": 44,
+  "address": {
+    "street": "Bebkot Highway",
+    "city": "Liwkatow",
+    "state": "CO",
+    "zip": "64303"
+  },
+  "contact": {
+    "phone": "(326) 332-8907",
+    "servicePhone": "800698595"
+  },
+  "birthday": "1970-11-06T19:16:32.422Z",
+  "ip": "66.119.90.248",
+  "foo": "bar",
+  "profile": {
+    "about": "Ane hedda ora ga mikdidkig racal fehhuv wus guvi jatgof kobkapid bieriuz mumsec. No ivubindu ge iw vib nazkil hoksu inohu cu cizid zez mivo ide rurabe mona he ogjerbi. Zuv zumnah nihfok azihugor uciuperac masmes pulop utotaz lenu er hi novriful.",
+    "bio": "Ere domo mo sof ke wogkec nis emlub wivwimku kiice uzanomale canhatpu ujbok bemuhfiw. Ot jupdo tatjenlo cel tijho tih subvunho godulle bumve jizwom aco agcekfe vetu. Bisnu ve coudavuj wa av kiefube met pe amrit filo jomi tol dispoog rezropzo biupe ponana rokit. Piv gu nez fibjehahe feb piej sahapoga dijajod rez temuhdu bu tiracewud. Wikamvac saw okzip vi situud ewosod ce keffo makoh ba vidaful zor wurzi sipbivdef. Ah raki jumaade biw zadbukew te guizupeb zo foabku namu enor irozoh voudfef vikot sili. Cula vijhabi aha abne fap atouw lipjuj gisoggel nofkudac dat fubanra dakeken pebisi onebwew fo ja wow ulafep."
+  },
+  "apiKey": "f968839cfe435f9c3c52ef8859918fc820561b1d7d8b6128e0fbef52bf8ec7f4",
+  "currency": {
+    "code": "BAM",
+    "name": "Bosnia and Herzegovina Convertible Marka"
+  }
+}
