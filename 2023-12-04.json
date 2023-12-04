@@ -1,0 +1,26 @@
+{
+  "name": "Eva Nelson",
+  "age": 57,
+  "address": {
+    "street": "Nahok View",
+    "city": "Gagucfi",
+    "state": "FL",
+    "zip": "42744"
+  },
+  "contact": {
+    "phone": "(928) 641-7917",
+    "servicePhone": "800962478"
+  },
+  "birthday": "1987-10-29T16:04:57.657Z",
+  "ip": "229.39.51.160",
+  "foo": "bar",
+  "profile": {
+    "about": "Jeojce laboica tucul bi rat otiuve fac cu sices usujub zowam pakufu ab luzcipo me ekmoedi. Ki tik rinper zenevi atlafevi ba zif ifiizalas mot okopaevi jac liwo. Geuno kep wovopid runtah nelotgic ipetojbu kek san seopmi vazguol mas huz norop obu oji kehhitte.",
+    "bio": "Atbug macba huteznev fejaphip imejav duj ragulop bozeaho kadcu wij vukuwfal avejetfa vu kowedkaf wuhi guwjemko leawena. Vowiftoz poorba pog igi az ez ircuapo vuk mab vez wovaspus kocud su rojesi bamhuji ciid. Ega ra amlubco mehvomkep luzdu bidjotata wu vupbovafu gi nukonot nurhandu oza di. Fe izo hasap dieresim sedekcik pelopkip ho nagtahan sanbu gicbotcer ufo elder nujes so mirhevbal. Ekekutjes cezipe nikuv vuclinmu lut bejikbo ronoz joj niv obi iktimi menegag od nuuklaf. Joppe wucad vogkun cob hofotep ewo lavrokmev dalpac saskeb levhidfa ci cus pufweuku fuwutbaw."
+  },
+  "apiKey": "e0c6213eb19eb3eada0172e58bcd99d7af207c3a13fb399bb86f040451152cac",
+  "currency": {
+    "code": "CLP",
+    "name": "Chile Peso"
+  }
+}
