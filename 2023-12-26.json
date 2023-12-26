@@ -1,0 +1,26 @@
+{
+  "name": "Steve Austin",
+  "age": 33,
+  "address": {
+    "street": "Ewaga Lane",
+    "city": "Lipmazot",
+    "state": "NY",
+    "zip": "46960"
+  },
+  "contact": {
+    "phone": "(871) 242-1353",
+    "servicePhone": "800517161"
+  },
+  "birthday": "1959-04-17T19:17:48.442Z",
+  "ip": "130.168.112.244",
+  "foo": "bar",
+  "profile": {
+    "about": "Gup jo kusohis hoflavodu nof zih ba rorasfu peb lehciw da pujke luzuko jew zet va umfet rakroeg. Wiw poetha tekuwhu vivopa howzuta ponozuna suzowe cutlaigi zizu kut gativo siih offe aguraz. Ogaba ekomajom hodvum azobopif wis tez fa fu zosuciw himigut lovafuti sasizat wik dak pe vaow um nimedmo. Gabgirha namde jaihokot sev jijuzudig lafebge pik ejo opimi zuka ze woknato luokodah.",
+    "bio": "Ga dok cidod fi buzukuc highigtun sozo osu dapgihmub barewe solo sasipo riombu jo kadede jib. Rogaz girbojelu foah hocokep ilururuw bokgar gamtabce as bozo vewar taj mouh. Zapzeti dem tuhducoli co zeudgu ketotome ug valneze faf dal rore boble gi azoos wivmidfo susiruje me. Op kab meghe makav buza zougozif hicuwus zo bug pobziv piv kipnuca eleeb fabag gibe."
+  },
+  "apiKey": "cbb3c5764fda4a930cc6c8fb9cda990d8e6ee2dfcfba4d5ba69295d804da41fd",
+  "currency": {
+    "code": "LKR",
+    "name": "Sri Lanka Rupee"
+  }
+}
