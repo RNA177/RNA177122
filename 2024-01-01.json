@@ -1,0 +1,26 @@
+{
+  "name": "Theresa Burgess",
+  "age": 26,
+  "address": {
+    "street": "Bozu Turnpike",
+    "city": "Hizziet",
+    "state": "KY",
+    "zip": "14591"
+  },
+  "contact": {
+    "phone": "(566) 297-8176",
+    "servicePhone": "800766358"
+  },
+  "birthday": "1978-10-10T18:34:45.582Z",
+  "ip": "81.11.248.96",
+  "foo": "bar",
+  "profile": {
+    "about": "Ij mimlaho vobziso hoeka gemsez lot hohnumo geken ku vu viiw comkunir pu pauti gutew su wekavsow. Firoum gestav re zalteida rutgo ju vuavci set lepfo kapirej cijecun robcub ig ecogef ri. Zar vodvu ce lawesfo orfe ca kolaf divjize nihavuuho pibibut me aci amu we jeuwkus ocpiki oc zeak.",
+    "bio": "Luf ud usoibva zi uhi finok nihlor gilav rewvutuf lafu be bupo retudom zat golmob dupharab guho nufrozda. Iziackaj zum gizuniru lufo istidsi pah cekel fapzakaj wipav kos milnino ra ebe ku zu kiic anepakuju vawoc. Umiimvi we gasduvi zesugu uksidav jonin lomubin de mi evivo okje jeg ifafa hetcawham cunnurih fopwo. Mon jibo pojgop huwuheaw estuk jascogse ba ulwud hel digalwi pihmab opevahu tuz hijejlub focefnup isidilek deduroti. Weozo kimkaggul amajubuv em wem fuzbahu tulnoeji ivkaev pefzu urihof birseji koej no avzeh jebro."
+  },
+  "apiKey": "1aa36296dc8346ff8b438bd73c3e110f4551486b4c3851f9920a634f2d779be3",
+  "currency": {
+    "code": "NGN",
+    "name": "Nigeria Naira"
+  }
+}
