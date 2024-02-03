@@ -1,0 +1,26 @@
+{
+  "name": "Chad Barker",
+  "age": 33,
+  "address": {
+    "street": "Geor Junction",
+    "city": "Umesedse",
+    "state": "NE",
+    "zip": "76116"
+  },
+  "contact": {
+    "phone": "(400) 891-9379",
+    "servicePhone": "800171955"
+  },
+  "birthday": "1997-12-07T09:49:23.921Z",
+  "ip": "176.130.23.177",
+  "foo": "bar",
+  "profile": {
+    "about": "Sarwuhud cotna ne ezo fef izawib eb mafa nilojati as vi oliserobi kugawe. Hasfurjow igava fulzozma awe fudawvo lunav rod cid ceksifuh ricuc tolro kacimpe walkuuh wed ubofi veer dababki. Hov te evula sufson ejenuvfe ijidiri mep zewaja bo alo agohi iliduoc fikiraru avu. War as jece kovjufrum owaboba owuite kowar wewur di ki zeb vup nuwma. Ijucod givop ganiwfe gu penwir gapebka lolazic faf mopig wuajbi ovwiri wo.",
+    "bio": "Culku ge da gi zuiru ufe tip moci pa nejmol umori site jovmo vehocu su ivu. Amuhru unamuvi ta duzecro fud hanuge pi efewolbam bo cobha nastocta dof jidicmo rupha itougi lunmag. Zemareho tiata habepow remsa sifaj bewtolaho mudsuho rudetado miku oko faohnu ecco mag cet."
+  },
+  "apiKey": "b8af6452dd2c0cdb20c6932b16e946dca853d5137b1b931557f90fd49f07e117",
+  "currency": {
+    "code": "FJD",
+    "name": "Fiji Dollar"
+  }
+}
