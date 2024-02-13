@@ -1,0 +1,26 @@
+{
+  "name": "Eugenia Obrien",
+  "age": 23,
+  "address": {
+    "street": "Haputu Lane",
+    "city": "Lizirba",
+    "state": "MN",
+    "zip": "77123"
+  },
+  "contact": {
+    "phone": "(487) 907-8733",
+    "servicePhone": "800177937"
+  },
+  "birthday": "1974-06-17T03:09:53.068Z",
+  "ip": "67.210.162.42",
+  "foo": "bar",
+  "profile": {
+    "about": "Godjosic wube kuhmakla rietetad huhi ned zerupogi to wep wojuh lo onaapa. Bocepru daz fuoza puade lod okajupumo ak wuuso geh jafjaru kaga se wi lajusasa wobwak gugveda fipuf. Lota socwufe upa omvawpud kibeori cepsamted kuv azjef ra owi lizah tibimo vo olako.",
+    "bio": "Ma vezel pomnifdop midjo ajifihig baumu va ojala nirla uzovegfi cot wok pevtefe he zuipo tan jusundo. Ebukeb cabaf tuvumahe nisrunuw akaaj gecgenpoz fema dedkiaro agbais nuvbiv tecujjir cin he cepin. Bulit cen owiuc ewoma ut fe alaga kav mebrat zudet movokom gorrupja ic. Vaisu kab oztihiz fojiba pepicfe raur nu riz ecetaiv vuitpi bitika segabgu nikniler buku rifagve bordo dijajtis cite."
+  },
+  "apiKey": "f19f3b461813f8cad026738e785ff4b4563772c7d1e9cf47ffdf49fc67243d92",
+  "currency": {
+    "code": "GYD",
+    "name": "Guyana Dollar"
+  }
+}
