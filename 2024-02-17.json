@@ -1,0 +1,26 @@
+{
+  "name": "Juan Barnes",
+  "age": 42,
+  "address": {
+    "street": "Bema Park",
+    "city": "Feluufe",
+    "state": "MA",
+    "zip": "69991"
+  },
+  "contact": {
+    "phone": "(746) 541-4181",
+    "servicePhone": "800153253"
+  },
+  "birthday": "1995-07-10T18:05:50.957Z",
+  "ip": "81.22.227.70",
+  "foo": "bar",
+  "profile": {
+    "about": "Tafnuc kofijse wecgejeh lihrag wedmucuri puw egobiize kuctihoh hezcow sihesul feddo cate ejdag. Pucirzag adauna reni ehuka duw onu rejhophar mak rim rivpoti fo laj gimfetgo gi. Iloducbar ed zow seose zapa ozhim ha tazis zunapcel holoedu eslidlum uho zukvupwe novap ta. Kikzentu sabsu obaub onuc mewofde fol red di subi cufec li tudzere afma jenbew sutob pe rafune.",
+    "bio": "Po vaczu kag woda wi emje ufizimej nomfod danom hev dathoam fa suj sodus vosaet ori koza. Julu lur miki febjob soup guh hah dona lom raosu gulce dubohluj koaj lovazdov ta pe apaon je. Ipulilif cuvjureci guk tasemohof cuope bepu ta himejew piklo eca kapize egpizzi piomala fumuj wobe voknowe."
+  },
+  "apiKey": "71e28a6d14998ebcc3418eb188cc8fd1ecfd134f4d7745ea94a8aa0e157deba9",
+  "currency": {
+    "code": "KZT",
+    "name": "Kazakhstan Tenge"
+  }
+}
