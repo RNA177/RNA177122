@@ -1,0 +1,26 @@
+{
+  "name": "Joshua Young",
+  "age": 50,
+  "address": {
+    "street": "Wadle Parkway",
+    "city": "Susijso",
+    "state": "ME",
+    "zip": "68220"
+  },
+  "contact": {
+    "phone": "(677) 653-5528",
+    "servicePhone": "800854612"
+  },
+  "birthday": "1989-12-28T20:44:30.557Z",
+  "ip": "172.93.80.150",
+  "foo": "bar",
+  "profile": {
+    "about": "Uvimu igzag anku iwjis za ta la dif ijroj fikutej zo emjo jagub uh gahoneb sapget bono do. Goc fan jeduam et jin tarod gob ne geudlot ulurigah le wi izuti jip gekvo. Ra rokhema ek kahlaafu paomukek bonu ide fij rufe po setabib ja ga rin zuz ezuwap. Reiwe gisomico wohlag hep igenik parrawa ehbi emiwitki wavkisce libek bi ewoci ju hihentu kiwok ra hipdivu ucu.",
+    "bio": "Isa mek obdakise suc ave jimkutus zikkebdoj wew etorub cu modutko radboldo mupwo ka urewij te. Atosul gu op gu upukcel utru ron himcalsu vomvemvov vas vurfiv mil bit si vivus toggi coufpeg. Gajposov sos nofhek wodoggos ga laligdi lu ek umisumi gez betabmah vioffo tewu egezoskuk idka. Rietwi rigocukin wocdubu gijsu nakterom cepciz behozu eciec celhi bo bevepi maz umofulet. Ektuze nu usriifu notso nuwof inisirig mogsudu tu bolisid lok kieh udofipa likkimef diccikmow ri."
+  },
+  "apiKey": "02f0a97fdb634d76cf3dfc22b2498cd46af3f1bb02cde517901c39c54df180a3",
+  "currency": {
+    "code": "GIP",
+    "name": "Gibraltar Pound"
+  }
+}
