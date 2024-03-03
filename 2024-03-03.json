@@ -1,0 +1,26 @@
+{
+  "name": "Alta Arnold",
+  "age": 54,
+  "address": {
+    "street": "Ahgi Way",
+    "city": "Tehuviove",
+    "state": "MT",
+    "zip": "47111"
+  },
+  "contact": {
+    "phone": "(750) 494-2466",
+    "servicePhone": "800216848"
+  },
+  "birthday": "1966-12-08T10:29:31.239Z",
+  "ip": "143.171.106.28",
+  "foo": "bar",
+  "profile": {
+    "about": "Toheg muam benudve cuga dodnizrej zecjawala wuas aj zeded ij uruhuv kuc uk cejegko abo lik jozez. Gumbena ri ukuwu ibluhe enutuje gusu juparka oku ew mugibi ula rizkaigu. Bodif ola gevhew wizpa nas fenba sawguhhas fa hu zonbegon tukunni odo hejiv wulaboija zimobefi.",
+    "bio": "Coc evugesi git wapke bi eb egifamuv imaovoaja tahazucim uwruku cijebu mip. Rucama lo bazihe ho hez de iveper leud bos kucag fabta sipjubpur fikkal ma peb bal. Zewteptom uhfuru buw omaebpe hidutu ju rapa li dezcob gepcaur aznaab wip ija nicju nanpi."
+  },
+  "apiKey": "33d65fac5c23a092891183e16227918b08e75a3b7b16a06406c513c7128c7280",
+  "currency": {
+    "code": "DJF",
+    "name": "Djibouti Franc"
+  }
+}
