@@ -1,0 +1,26 @@
+{
+  "name": "Tommy Byrd",
+  "age": 56,
+  "address": {
+    "street": "Aros Park",
+    "city": "Ebeolmuf",
+    "state": "VT",
+    "zip": "73691"
+  },
+  "contact": {
+    "phone": "(504) 508-8233",
+    "servicePhone": "800231898"
+  },
+  "birthday": "1994-10-24T15:32:33.981Z",
+  "ip": "173.204.180.101",
+  "foo": "bar",
+  "profile": {
+    "about": "Weuranaf emacolam ipiwu li sechottiw kiznas fol zi tizgafo pog jakap ka kogihi. Zase curo rafi vagduz ataadoina va om vif va rafi betkokul kezo. Luifa jut rej ri gonces ni risvuta feutte asadu foz agu la fobpujoh meszac. Jonemge gip no kakzar zusi ravugiv rad wiefit fosu ra hi puravoj hite uhuozwef morca wo wapgep. Ito rirkeh gonobvir lik ulde abuv fija gamijo kab ke nuewojom iwaralis iholueh obkiv. Vapruwe pepnuwuz pefoho koizgup kacase sotuvuj nu cojes idisi book rupva pohuv.",
+    "bio": "Ozu zij katneb rukufmub bir me etukummoc puzuju boffejca ivmi vobuvli wa ucazufe lebzegvum etu gisupu sut. Hipbi kesemco ivuruc cec sogwig uvi ho mura sakcouj pob kahi met imnun bokutkuk ciwli rulogfow delul. Elo tur fabke ju hosumako giz epuhomva wirahuwu wo zigasiw izdel ibejifeh. Amo gurbuz menina cad emzalnic fijfewkaf lez su hec pevos weetutap roem zamerbeh."
+  },
+  "apiKey": "173ce34249cad08b12d0a7fe994c913ba1611170de74e4f8941cc90322a773e8",
+  "currency": {
+    "code": "KWD",
+    "name": "Kuwait Dinar"
+  }
+}
