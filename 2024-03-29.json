@@ -1,0 +1,26 @@
+{
+  "name": "Edgar Price",
+  "age": 40,
+  "address": {
+    "street": "Gunpo Drive",
+    "city": "Camivas",
+    "state": "PA",
+    "zip": "44153"
+  },
+  "contact": {
+    "phone": "(722) 711-6322",
+    "servicePhone": "800929477"
+  },
+  "birthday": "1996-12-07T17:45:43.479Z",
+  "ip": "17.147.141.107",
+  "foo": "bar",
+  "profile": {
+    "about": "Im mag gi kulwo icazoihu rup azi jepejo tocbi fe ma usicuda. Gemur ri vuta oz riibze jenzu eb matsane kuvekog vugzo navfo rejeg posurtiz. Il ej hofe levo tupjas woojmeb zizevno la wi let pe sopesa guveka gaj pub nisemnez pagdanga ak. Ze fej nac ten ofamedij bubtolted fuzenuc we bov nik riwgik zofuboosu mufo erja gicin ca gafo hogurab. Otibliv cacewi guk jetzuvzij sasoflip idumorcuk uzoto tumam awa boce ico irucogip loaj kezkume. Jag womsace hudma bukuje efoela giasacu lu juupmem jedgocdup bec gigagmit re sehunvu.",
+    "bio": "Paczuc gaz kopak fez hizadlug riffikul olti misid hi jek ivsit wehkiz de. Manumme jig utkok aporali sunlughil du awafig pos kiwoje ni nozap balow cobsij af neg zuzed. Beppi zac ezi vof ve puh seg podwobagi ne hepesjod ru tom zu fojfan utesi luhop hu lahegisoh."
+  },
+  "apiKey": "bd0ef8c4197f2abdc55c748ca0d7a970483b3719f390dc0e8577b8d230853b5e",
+  "currency": {
+    "code": "SOS",
+    "name": "Somalia Shilling"
+  }
+}
