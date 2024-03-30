@@ -1,0 +1,26 @@
+{
+  "name": "Brent Newman",
+  "age": 47,
+  "address": {
+    "street": "Bikfon Grove",
+    "city": "Puduaj",
+    "state": "WA",
+    "zip": "29073"
+  },
+  "contact": {
+    "phone": "(485) 314-2370",
+    "servicePhone": "800598428"
+  },
+  "birthday": "1999-11-09T16:26:00.953Z",
+  "ip": "167.110.79.34",
+  "foo": "bar",
+  "profile": {
+    "about": "Alatuge markawali ducop irrir uce mitowtol taw cispe zettoluv cirogoh usjir nena em. Duparrus mogujke kevojtaf vadvapi wosen le kahu elawomdam oku tem ge li egeli fizvocseg. Cilaja hiife poep akihigu onwedide kik ni vi etuki polaceolu giv ahdo arsu rimlokfop evesab.",
+    "bio": "Up koobuji luafaka marta sasov ziv fe joep rompew wehap wiwlolji zofnuzem hak ohalon tu jif ozefen heacagus. Jepugi bubbiij denjih cefsi omsulri ehogawkos alove waroc fuwtu moge os jiapuwo. Mez fozba pug pohru zi isa homonwog uf murur fa itziuvo enu ce."
+  },
+  "apiKey": "fd689d2ad66f354ae575a894183d1d0f3ce7921a8dd9139f828488ebc6ad4f7a",
+  "currency": {
+    "code": "BDT",
+    "name": "Bangladesh Taka"
+  }
+}
