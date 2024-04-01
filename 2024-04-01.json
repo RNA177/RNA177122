@@ -1,0 +1,26 @@
+{
+  "name": "Jim Wilkins",
+  "age": 60,
+  "address": {
+    "street": "Olara Point",
+    "city": "Dikukuz",
+    "state": "NJ",
+    "zip": "00301"
+  },
+  "contact": {
+    "phone": "(561) 224-6519",
+    "servicePhone": "800832179"
+  },
+  "birthday": "1995-11-15T16:41:38.096Z",
+  "ip": "91.14.137.58",
+  "foo": "bar",
+  "profile": {
+    "about": "Nog tit uh gahekah baahcer sama zaviwoj mawa mis jo wiwisig tod emjo gaul lejnu ic vo. Isuvaf aj efodib wuladipi dohen cem botaw rurto ho meroset jerdahgil me vorlu hek. Ditnu buewi wufec enmucih uroug lizok ungel eruzid ve vifi adu fedhigpom evo. Izegi lazuvo noh azdupmo re ahubo ludnakla ugogo roni mam uzo ho ev paf.",
+    "bio": "Hezu hevih gojur sokfibug so mocbiw vuhad girka ru eheulku pek ok votcouma somuwu za vimsim gel odejooc. Segeed ne kopzi vof povi lunuf limpak fewwew caojuicu holo wu jul sesmevim segemsol ceniwe mu masuv. Ibatij tivtu igacowe luj icfeco rocko silegres tufradkam vum foluk le bino postac ovsugi votiz nipwe."
+  },
+  "apiKey": "02230a4e24ce57924fea002de24c94673cbff204f195c004ce16442503dc9824",
+  "currency": {
+    "code": "RWF",
+    "name": "Rwanda Franc"
+  }
+}
