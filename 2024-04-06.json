@@ -1,0 +1,26 @@
+{
+  "name": "Jose Barber",
+  "age": 28,
+  "address": {
+    "street": "Megu Circle",
+    "city": "Tumkovhoz",
+    "state": "DE",
+    "zip": "03305"
+  },
+  "contact": {
+    "phone": "(266) 322-8491",
+    "servicePhone": "800381629"
+  },
+  "birthday": "1980-12-10T10:31:44.495Z",
+  "ip": "109.17.112.20",
+  "foo": "bar",
+  "profile": {
+    "about": "Vikweh ha sida ru wisaf nesrot rusure lival sohjovib puanu gilwooga jan gekpoh. Tu jusu cafaho vucniwlu cow puuve vepev ta vibivaz ufo win nishiup dil vugiw. Nit co orcujez gu ogeki po cu laulu cuka wenige omezo giju ne ahuso codtupcor sulifo. Hi gajid la rosgunad vuzlafih kiris bafic magucu un os ef igowuuju fel figjuhlaw uz.",
+    "bio": "Wat luwfa ugu awutumsez kuv ada zoon wegad cifuv gizro jat konajfo sus. Zehmep retiwek mucinbit fafcefko ba kunitkub wu pesa imebu kot ruk fi bem bofi unedatof pithen hu. Fem ujoni wagapol be ukivu bem jilapton eslof ije foubra nerori mehmos oko alkecpas. Duuhota lili za mabu bisnu fa kicke zo ruiwa af jawibmed ohiwo elele hi ora erwab gutej he. Ipe mafu iguen hahucfe dupun zi vibun suc gazjiw locihi pubu diwoatu cu wafnule. Ujememu ilawvo lunhatfi hemeno nal dubsurida tahjoc fus tohupho ha go camozlo notohi dofufuzi pen. Lac forpi vet aza aj em bu adtiaka kafmip efbugna hohce pejjeb abiwotpe hukeplu."
+  },
+  "apiKey": "7d988a8461933fdb463523e4840b23dbfe89d240d142b5d1fa32370dcf71d249",
+  "currency": {
+    "code": "CZK",
+    "name": "Czech Republic Koruna"
+  }
+}
